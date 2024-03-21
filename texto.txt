@@ -1,3 +1,0 @@
-Apenas um texto para teste do git e github.
-Mais um teste modificando arquivo que já estava no github.
-Teste para modificar arquivo dentro do github e receber pelo git pull.
