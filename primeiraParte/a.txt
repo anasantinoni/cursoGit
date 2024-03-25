@@ -1,1 +1,2 @@
 Teste para atualização do git clone
+teste para git stash apagar
