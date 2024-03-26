@@ -6,5 +6,24 @@ comandos para readme
 
 cada # ele reconhece como h1
 
-####
-h4
+#### h4
+**Negrito**  *italico*
+
+_italico texto todo e **negrito** apenas um_
+**negrito texto todo e _italico_ apenas um**
+
+### listas n ordenadas
+
+*html
+*css
+*js
+
+### lista ordenada
+
+1. html
+     1. html
+     2. vvv
+2.css
+3.js
+
+![Como colocar imagem](img/readmeImg.png)
