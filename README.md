@@ -27,6 +27,18 @@ _italico texto todo e **negrito** apenas um_
 2. css
 3. js
 
+#### img
+
 ![Como colocar imagem](img/readmeImg.png)
 
-![Imagem via link](https://img.freepik.com/fotos-premium/gato-com-sono-esta-sentado-em-um-carro_156352-242.jpg?w=900)
+#### img via link
+
+![Imagem via link](https://papode.dev/assets/img/comandos-git.png)
+
+### Links
+
+[Linkedin](www.linkedin.com/in/anasantinoni)
+
+#### Link com imagem
+
+[![Linkedin Ana](https://www.globalempregos.com.br/wp-content/uploads/2021/03/linkedin.jpg)](www.linkedin.com/in/anasantinoni)
