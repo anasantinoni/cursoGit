@@ -37,8 +37,8 @@ _italico texto todo e **negrito** apenas um_
 
 ### Links
 
-[Linkedin](www.linkedin.com/in/anasantinoni)
+[Linkedin](https://linkedin.com/in/anasantinoni)
 
 #### Link com imagem
 
-[![Linkedin Ana](https://www.globalempregos.com.br/wp-content/uploads/2021/03/linkedin.jpg)](www.linkedin.com/in/anasantinoni)
+[![Linkedin Ana](https://www.globalempregos.com.br/wp-content/uploads/2021/03/linkedin.jpg)](https://linkedin.com/in/anasantinoni)
