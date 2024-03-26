@@ -1,0 +1,71 @@
+git init
+git add .
+git commit -m "mensagem do commit"
+git branch -M main
+git remote add origin https://github.com/anasantinoni
+git push -u origin main
+
+//dps q ja tem o repositorio
+
+git pull 
+//é bom acostumar a sempre fazer isso para n dar conflito//
+
+git add .
+git commit -m "commita"
+git push 
+
+git commit -a -m "esse -a commita tudo, msm sem dar git add ."
+//
+
+git commit a.nomeDoArquivo -m "commita apenas aquele arquivo" 
+//bom pra aparecer uma mensagem diferente em cada arquivo commitado.//
+
+git clone http...
+//qnd vai pegar um arquivo existente
+
+cd   ../ trabEstatistica/ 
+cd ../primeiraParte/
+//entra nessa pasta dentro do repositorio//
+
+ls
+//é pra saber as pastas q tem naquele repositorio
+
+//
+git rm nomeArquivo //apaga
+git commit -m "commit arquivo deletado"
+git pull
+//
+
+git log
+// mostra alterações do projeto, tudo q foi commitado
+C
+//apertar C para voltar ao git normal
+
+git checkout
+//volta para o estado inicial q esta no repositorio
+
+pasta .gitignore 
+//pasta feita para dentro dela escrever nome de outros arquivos q n vao aparecer no github
+
+git reset --hard 
+//reseta para a ultima alteraçao
+
+git branch               //mostra a branch q tu ta
+git branch nomeBranch    //cria branch nova
+git branch -d nomeBranch //deleta a branch
+git checkout nomeBranch  //troca para essa branch
+
+git stash           //apaga oq foi acrescentado
+git stash list      // mostra as listas q foram apagados
+git stash apply 0   // acrescenta de volta a lista 0
+git stash show -p 3 // mostra as mudificações da lista 3
+git stash drop 1    // apaga essa lista
+git stash clear     // apaga todas as stash
+ 
+git remote -v                // mostra o repositorio online
+git remote rm origin         // apaga o repositorio
+git remote add origin https..// adiciona repositorio
+
+git gc // o git limpa repositorio q ele julga serem desnecessarios
+
+
