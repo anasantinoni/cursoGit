@@ -14,16 +14,16 @@ _italico texto todo e **negrito** apenas um_
 
 ### listas n ordenadas
 
-*html
-*css
-*js
+* html
+* css
+* js
 
 ### lista ordenada
 
 1. html
-     1. html
-     2. vvv
-2.css
-3.js
+      1. html
+      2. vvv
+2. css
+3. js
 
 ![Como colocar imagem](img/readmeImg.png)
