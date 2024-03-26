@@ -54,3 +54,10 @@ function soma(a, b) {
 }
 ```
 
+## Listas de tarefa
+
+- [x] Feito
+- [ ] Fazer
+- [ ] Fazer
+- [x] Feito
+
